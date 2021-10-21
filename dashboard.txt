@@ -103,4 +103,4 @@ View Running Processes=Visualizza Processi In Esecuzione
 Virtual Machines=Macchine Virtuali
 
 ; New entries - 2021-03-14
-Temp=
+Temp=Temp

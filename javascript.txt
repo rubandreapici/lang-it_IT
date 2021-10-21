@@ -1,6 +1,6 @@
 also remove image=rimuovi anche l'immagine =
 Apply=Applica
-Are you sure=Are you sure?
+Are you sure=Are you sure?_si è certi?
 Cancel=Cancella
 checking=controllo
 Completely REMOVE=RIMUOVI completamente
@@ -40,8 +40,8 @@ Updating all Containers=Aggiornamento di tutti i contenitori
 Updating the container=Aggiornamento contenitore
 VNC Remote=VNC Remoto
 WebUI=WebUI
-Yes, delete it=Yes, delete it!
-Yes, update it=Yes, update it!
+Yes, delete it=Si, Cancella it!
+Yes, update it=Si, Aggiorna it!
 Yes=Si
 
 ; footer messages
@@ -53,5 +53,5 @@ Starting services=Avvio  servizi
 Stopping services=Arresto servizi
 Unmounting disks=Smonta dischi
 Autostart disabled=Autoavvio disattivato
-Missing encryption key=Chiave di criptazione mancante
-Opening encrypted volumes=Apertura volumi criptati
+Missing encryption key=Chiave crittografica mancante
+Opening encrypted volumes=Apertura volumi criptati_crittografati

@@ -589,16 +589,16 @@ Secure remote access=
 Whether you need to add a share, container, or virtual machine, do it all from the webGui from anytime and anywhere using HTTPS Best of all, all SSL certificates are verified by Lets Encrypt, so no browser security warnings=Whether you need to add a share, container, or virtual machine, do it all from the webGui from anytime and anywhere using HTTPS. Best of all, all SSL certificates are verified by Let's Encrypt, so no browser security warnings
 Real-time Monitoring=
 Get quick real-time info on the status of your servers such as storage, container, and VM usage And not just for one server, but all the servers in your Unraid fleet=Get quick real-time info on the status of your servers such as storage, container, and VM usage. And not just for one server, but all the servers in your Unraid fleet!
-USB Flash Backup=
+USB Flash Backup=USB Flash Backup
 Click a button and your flash is automatically backed up to Unraidnet, enabling easy recovery in the event of a device failure Never self-managehost your flash backups again=Click a button and your flash is automatically backed up to Unraid.net, enabling easy recovery in the event of a device failure. Never self-manage/host your flash backups again!
 Registration key management=
 Download any registration key linked to your account Upgrade keys to higher editions=Download any registration key linked to your account. Upgrade keys to higher editions.
-Page Not Found=
+Page Not Found=pagina non trovate
 Page Not Allowed=
-year=
-years=
-month=
-ago=
+year=anno
+years=anni
+month=mese
+ago=fa
 
 ; New entries - 2021-03-14
 %s was not signed out of your Unraidnet account=%s was not signed out of your Unraid.net account
