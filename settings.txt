@@ -1,17 +1,17 @@
 12 hours=12 ore
 24 hours=24 ore
 8023ad=8023ad
-Active Directory Settings=impostazioni Active Directory _Settings
+Active Directory Settings=impostazioni Active Directory
 Active Directory=Active Directory
 active-backup=active-backup
 AD account login=AD account login
 AD account password=AD account password
-AD domain name=AD domain name_nome dominio
-AD initial group=AD initial group
-AD initial owner=
+AD domain name=AD nome dominio
+AD initial group=AD gruppo iniziale
+AD initial owner=AD proprietario iniziale
 AD join status=
 AD short domain name=
-Add Route=
+Add Route=aggiungi Route
 Add VLAN=Aggiungi VLAN
 Agent function=
 Agents=
@@ -47,7 +47,7 @@ bottom-left=
 bottom-right=
 Bridging members of=
 broadcast=
-Browser=
+Browser=Browser
 btrfs filesystem show=
 btrfs scrub status=
 Cache disk not enabled=
@@ -510,7 +510,7 @@ Your Lets Encrypt SSL Certificate has been provisioned and a DNS record for loca
 Your Lets Encrypt SSL Certificate has been renewed=
 Your local IP address=
 Your router or DNS server has DNS rebinding protection enabled, preventing=
-YYYY-MM-DD=
+YYYY-MM-DD=AAAA-MM-GG
 
 ; New entries - 2021-03-14
 Activate=
@@ -568,7 +568,7 @@ Your server has been registered=il vostro server é stato registrato
 Your Unraid Server is reachable from the internet=il vostro server unraid è raggiungibile da internet
 
 ; New entries - 2021-03-14
-Celsius=celsius
+Celsius=Celsius
 CRAM-MD5=CRAM-MD5
 Docker VMs=Docker + VMs
 encrypted=crittografato
